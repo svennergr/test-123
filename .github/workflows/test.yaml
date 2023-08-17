@@ -1,0 +1,13 @@
+name: test
+
+on:
+  push:
+    paths:
+      - 'test.js'
+
+jobs:
+  my-job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: my-step
+        run: echo "Hello World!"
