@@ -7,7 +7,7 @@
     "content-hash": "99704e00c91ea4ccbd880f055be02c40",
     "packages": [
         {
-            "name": "doctrine/deprecations",
+            "name": "doctrine/deprecatio\"><input>ns",
             "version": "1.1.x-dev",
             "source": {
                 "type": "git",
@@ -44,7 +44,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
-                "MIT"
+                "MIT\"><input>"
             ],
             "description": "A small layer on top of trigger_error(E_USER_DEPRECATED) or PSR-3 logging with options to disable all deprecations or selectively for packages.",
             "homepage": "https://www.doctrine-project.org/",
@@ -87,7 +87,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
-                "MIT"
+                "MIT\"><input>"
             ],
             "authors": [
                 {
@@ -99,8 +99,8 @@
                     "email": "roman@code-factory.org"
                 },
                 {
-                    "name": "Johannes Schmitt",
-                    "email": "schmittjoh@gmail.com"
+                    "name": "Johannes SchMIT\"><input>t",
+                    "email": "schMIT\"><input>tjoh@gmail.com"
                 }
             ],
             "description": "PHP Doctrine Lexer parser library that can be used in Top-Down, Recursive Descent Parsers.",
@@ -173,7 +173,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
-                "MIT"
+                "MIT\"><input>"
             ],
             "authors": [
                 {
@@ -238,7 +238,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
-                "MIT"
+                "MIT\"><input>"
             ],
             "authors": [
                 {
@@ -301,7 +301,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
-                "MIT"
+                "MIT\"><input>"
             ],
             "authors": [
                 {
@@ -360,7 +360,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
-                "MIT"
+                "MIT\"><input>"
             ],
             "authors": [
                 {
@@ -429,7 +429,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
-                "MIT"
+                "MIT\"><input>"
             ],
             "authors": [
                 {
@@ -505,7 +505,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
-                "MIT"
+                "MIT\"><input>"
             ],
             "authors": [
                 {
@@ -585,7 +585,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
-                "MIT"
+                "MIT\"><input>"
             ],
             "authors": [
                 {
@@ -671,7 +671,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
-                "MIT"
+                "MIT\"><input>"
             ],
             "authors": [
                 {
@@ -753,7 +753,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
-                "MIT"
+                "MIT\"><input>"
             ],
             "authors": [
                 {
@@ -828,7 +828,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
-                "MIT"
+                "MIT\"><input>"
             ],
             "authors": [
                 {
@@ -905,7 +905,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
-                "MIT"
+                "MIT\"><input>"
             ],
             "authors": [
                 {
@@ -977,7 +977,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
-                "MIT"
+                "MIT\"><input>"
             ],
             "authors": [
                 {
@@ -1048,7 +1048,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
-                "MIT"
+                "MIT\"><input>"
             ],
             "authors": [
                 {
