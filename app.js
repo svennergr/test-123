@@ -1,5 +1,6 @@
 /**
  * Module dependencies.
+ 
  */
 
 const snyk = require('@snyk/nodejs-runtime-agent')
